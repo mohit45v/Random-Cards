@@ -4,7 +4,7 @@ import App from './App.jsx'
 import './index.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import RandomUser from './pages/RandomUser.jsx'
-import { CatListing } from './pages/catListing.jsx'
+import { CatListing } from './pages/CatListing.jsx'
 import RandomJokes from './pages/RandomJokes.jsx'
 import NavBar from './components/Header/NavBar.jsx'
 
